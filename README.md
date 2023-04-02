@@ -9,6 +9,7 @@ User interface for managing tournament players developed with Angular.
 - Node.js
 - npm
 - Angular CLI
+- Having launched the 'Tournament' project that provides the tournament API in this repository: [https://github.com/clement-edouard/tournament](https://github.com/clement-edouard/tournament)
 
 ## Build
 
