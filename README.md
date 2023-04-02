@@ -1,27 +1,53 @@
-# TournamentUi
+# Tournament UI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+| [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/) |
+|---------------------------------------------------------------------------------------------------------------------------------|
 
-## Development server
+User interface for managing tournament players developed with Angular.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Prerequisites
+- Node.js
+- npm
+- Angular CLI
 
 ## Build
 
+Clone the project
+
+```bash
+  git clone https://github.com/clement-edouard/tournament-ui.git
+```
+
+Go to the project directory
+
+```bash
+  cd tournament
+```
+
+Install the project dependencies
+
+```bash
+npm install
+```
+
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Run Locally
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Start the server
 
-## Running end-to-end tests
+```bash
+  ng serve
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Important URL
+- TournamentUI : [http://localhost:4200/](http://localhost:4200/)
 
-## Further help
+## Author
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [@clement-edouard](https://github.com/clement-edouard)
+
+
+
+
+

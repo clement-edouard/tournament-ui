@@ -1,0 +1,12 @@
+
+button {
+  margin: 15px;
+}
+
+mat-table {
+  box-shadow: none;
+}
+
+mat-table button {
+  margin: 0;
+}
